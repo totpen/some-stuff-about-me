@@ -4,7 +4,7 @@
 
 I started my journey into coding a few months ago with HTML & CSS for website development. After been able to handle fully responsive website design, I jumped into JavaScript, which I'm still learning and practising everyday, as well as some back-end languages like Python and SQL.
 
-Apart from coding, I'm amazed with all the crypto environment and I've been working in the Data Analytics area since 2018 and as a freelancer doing a variety of projects such as community management, data visualizations, analytics, site-tagging and creative design.
+Besides coding, I'm amazed with all the crypto environment and I've been working in the Data Analytics area since 2018 and as a freelancer doing a variety of projects such as community management, data visualizations, analytics, site-tagging and creative design.
 
 - 👔 Currently working in the advertising and media industry.
 - 🤓 Learning Vue.js and Python.
