@@ -25,4 +25,3 @@ Besides coding, I'm amazed with all the crypto environment and I've been working
 <a href="https://github.com/tottipensotti/tottipensotti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tottipensotti&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
 </a>
-   
