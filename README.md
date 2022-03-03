@@ -23,4 +23,3 @@ Besides coding, I'm amazed with all the crypto environment and I've been working
 
 ## GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tottipensotti&layout=compact)](https://github.com/tottipensotti/github-readme-stats)
-
