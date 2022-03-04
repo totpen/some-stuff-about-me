@@ -1,4 +1,4 @@
-# 👋 Hola! Soy Agustín, también conocido como Totti.
+# 👋 Hola! I am Agustin, also known as Totti
 
 ### I'm a 23-year-old developer padawan from Buenos Aires, Argentina.
 
