@@ -15,7 +15,6 @@ Besides coding, I'm amazed with all the crypto environment and I've been working
 ## Skills and Experience
 ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)
 <!--![Vue.js](https://img.shields.io/badge/Vue.js-FFFFFF?style=flat&logo=vue.js&logoColor=4FC08D)-->
