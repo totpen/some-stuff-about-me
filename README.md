@@ -1,6 +1,6 @@
 # 👋 Hola! I am Agustin, also known as Totti
 
-### I'm a 23-year-old developer padawan from Buenos Aires, Argentina.
+### I'm a 24-year-old developer padawan from Buenos Aires, Argentina.
 
 I started my journey into coding a few months ago with HTML & CSS for website development. After been able to handle fully responsive website design, I jumped into JavaScript. I also know some backend-languages like Python (pretty basic though) and SQL.
 
