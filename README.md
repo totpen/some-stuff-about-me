@@ -6,7 +6,6 @@ I started my journey into coding a few months ago with HTML & CSS for website de
 
 Besides coding, I'm amazed with all the crypto environment and I've been working in the Data Analytics area since 2018 and as a freelancer doing a variety of projects such as community management, data visualizations, analytics, site-tagging and creative design.
 
-- 👔 Currently working in the advertising and media industry.
 - 🤓 Started my journey down the web3 rabbit hole.
 - 🤝 Looking to collaborate here in GitHub and expand my professional network.
 - 📞 You can contact me through Linkedin [@agustinpensotti](https://www.linkedin.com/in/agust%C3%ADnpensotti/)
