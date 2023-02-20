@@ -1,10 +1,14 @@
-# 👋 Hola! I am Agustin, also known as Totti
+# 👋 Hola! I'm Agustin, also known as Totti
 
-### I'm a 24-year-old developer padawan from Buenos Aires, Argentina.
+### I'm a 24yo developer padawan from Buenos Aires, Argentina.
 
-I started my journey into coding a few months ago with HTML & CSS for website development. After been able to handle fully responsive website design, I jumped into JavaScript and now I'm learning React so I can develop apps & complex sites. I also know some backend-languages like Python (pretty basic though) and SQL.
+I started my journey into data & analytics in 2019 and I've also worked as a freelancer doing a variety of projects such as community management, data visualizations, analytics, site-tagging and creative design
 
-Besides coding, I'm amazed with all the crypto environment and I've been working in the Data Analytics area since 2018 and as a freelancer doing a variety of projects such as community management, data visualizations, analytics, site-tagging and creative design.
+Recently, I decided to learn web and apps development with React and Typescript.
+
+Besides coding, I'm amazed with all the crypto environment and all the possibilities tech enables.
+
+My main stack includes: Python, SQL, JavaScript
 
 - 🤓 Started my journey down the web3 rabbit hole.
 - 📚 Learning React.js
@@ -17,8 +21,10 @@ Besides coding, I'm amazed with all the crypto environment and I've been working
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)
+![PostgreSQL](https://img.shields.io/badge/Postgres-FFFFFF?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql)
 ![React](https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react)
-<!--![Vue.js](https://img.shields.io/badge/Vue.js-FFFFFF?style=flat&logo=vue.js&logoColor=4FC08D)-->
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=typescript)
 
 
 
