@@ -21,6 +21,7 @@ My main stack includes: Python, SQL, JavaScript
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-FFFFFF?style=flat&logo=jupyter)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-FFFFFF?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql)
 ![React](https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react)
