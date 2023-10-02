@@ -1,6 +1,6 @@
 # 👋 Hola! I'm Agustin, also known as Totti
 
-### I'm a 24yo developer padawan from Buenos Aires, Argentina.
+### I'm a developer -slash- machine learning -slash- data scientist padawan from Buenos Aires, Argentina.
 
 I started my journey into data & analytics in 2019 and I've also worked as a freelancer doing a variety of projects such as community management, data visualizations, analytics, site-tagging and creative design
 
