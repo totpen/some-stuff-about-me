@@ -4,14 +4,14 @@
 
 I started my journey into data & analytics in 2019 and I've also worked as a freelancer doing a variety of projects such as community management, data visualizations, analytics, site-tagging and creative design
 
-Recently, I decided to learn web and apps development with React and Typescript.
+I've also explore the world of web and apps development with React and Typescript. But recently I've decided to focus deeply in the Data & ML world, gaining more experience and skills w/Python.
 
 Besides coding, I'm amazed with all the crypto environment and all the possibilities tech enables.
 
 My main stack includes: Python, SQL, JavaScript
 
 - 🤓 Started my journey down the web3 rabbit hole.
-- 📚 Learning React.js
+- 📚 Learning Data Science & Machine Learning
 - 🤝 Looking to collaborate here in GitHub and expand my professional network.
 - 📞 You can contact me through Linkedin [@agustinpensotti](https://www.linkedin.com/in/agust%C3%ADnpensotti/)
 - 🎲 Random stuff about me: I'm a musician and I love mountains, lakes and hiking ⛰
