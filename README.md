@@ -1,4 +1,4 @@
-# 👋 Hola! I'm Agustin, also known as Totti
+# 👋 Hola! I'm Agustin, a.k.a Totti
 
 ### I'm a data jack-of-all-trades with experience in analytics, ML, and engineering from Buenos Aires, Argentina.
 
