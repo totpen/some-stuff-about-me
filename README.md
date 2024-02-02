@@ -25,5 +25,4 @@ My main stack includes: Python & SQL
 
 ![Jupyter](https://img.shields.io/badge/jupyter_notebook-grey.svg?style=flat-square&logo=jupyter&logoColor=orange) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%23150458.svg?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%23150458.svg?style=flat-square&logo=seaborn&logoColor=white)
 
-## GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tottipensotti&layout=compact)](https://github.com/tottipensotti/github-readme-stats)
